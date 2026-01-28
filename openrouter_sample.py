@@ -3,8 +3,7 @@ import json
 import os
 
 # https://openrouter.ai/models?max_price=0
-model_list = ["deepseek/deepseek-r1",
-              "bytedance-seed/seedream-4.5",
+model_list = ["bytedance-seed/seedream-4.5",
               "black-forest-labs/flux.2-klein-4b",
               "black-forest-labs/flux.2-max",
               "qwen/qwen3-next-80b-a3b-instruct:free",
